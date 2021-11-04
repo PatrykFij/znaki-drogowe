@@ -51,23 +51,32 @@ const urls = [
 // });
 const axios = require("axios");
 
-const fetch = async (url) => {
-  try {
-    const response = await axios.get(url, {
-      responseType: "arraybuffer",
-    });
-    const img = Buffer.from(response.data, "binary").toString("base64");
-    fs.writeFileSync(url.split("/").pop(), img, "base64");
-  } catch (e) {
-    // console.log(e);
-  }
-};
+// const fetch = async (url) => {
+//   try {
+//     const response = await axios.get(url, {
+//       responseType: "arraybuffer",
+//     });
+//     const img = Buffer.from(response.data, "binary").toString("base64");
+//     fs.writeFileSync(url.split("/").pop(), img, "base64");
+//   } catch (e) {
+//     // console.log(e);
+//   }
+// };
 
-urls.map((url) => {
-  const fileName = `./${url.split("/").pop()}.json`;
-  const file = fs.readFileSync(fileName);
-  JSON.parse(file).map(async (el) => {
-    fetch(el.src);
-    console.log(el.src);
-  });
+// urls.map((url) => {
+//   const fileName = `./${url.split("/").pop()}.json`;
+//   const file = fs.readFileSync(fileName);
+//   JSON.parse(file).map(async (el) => {
+//     fetch(el.src);
+//     console.log(el.src);
+//   });
+// });
+
+const znakiDrogowe = JSON.parse(fs.readFileSync("./znaki-drogowe.json"));
+const result = znakiDrogowe.map((el) => {
+  const base64 = fs.readFileSync(`./${el.serial.trim()}.png`, { encoding: "base64" });
+  el.base64 = `data:image/png;base64,${base64}`;
+  return el;
 });
+
+fs.writeFileSync("./znaki-drogowe1.json", JSON.stringify(result));
