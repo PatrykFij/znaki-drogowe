@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import { Button, Card, CardActions, CardContent, CardMedia, Collapse, Dialog, Paper, Typography } from "@mui/material";
+import { Button, Collapse, Dialog, Typography } from "@mui/material";
 import * as S from "./styles";
 import data from "./data/znaki-drogowe.json";
 import BadAnswerImage from "./img/zla_kasienka.png";

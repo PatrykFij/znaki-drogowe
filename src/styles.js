@@ -1,5 +1,5 @@
 import { Button, Card, CardActions, CardContent, CardMedia, Paper } from "@mui/material";
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const Header = styled.header`
   h2 {
