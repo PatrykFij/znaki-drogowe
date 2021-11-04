@@ -1,0 +1,1948 @@
+[
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1a.png",
+    "serial": "G-1a",
+    "title": "Słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany pod znakiem A-9 lub A-10. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1b.png",
+    "serial": "G-1b",
+    "title": "Słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany w 2/3 odległości pomiędzy znakiem ostrzegawczym A-9 lub A-10 a przejazdem. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1c.png",
+    "serial": "G-1c",
+    "title": "Słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany w 1/3 odległości pomiędzy znakiem ostrzegawczym A-9 lub A-10 a przejazdem. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1d.png",
+    "serial": "G-1d",
+    "title": "Słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany pod znakiem A-9 lub A-10. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1e.png",
+    "serial": "G-1e",
+    "title": "Słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany w 2/3 odległości pomiędzy znakiem ostrzegawczym A-9 lub A-10 a przejazdem. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-1f.png",
+    "serial": "G-1f",
+    "title": "Słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni",
+    "visit": "Słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni\t",
+    "percentage": "Informuje o zbliżaniu się do przejazdu kolejowego. Jest umieszczany w 2/3 odległości pomiędzy znakiem ostrzegawczym A-9 lub A-10 a przejazdem. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-2.png",
+    "serial": "G-2",
+    "title": "Sieć pod napięciem",
+    "visit": "Sieć pod napięciem\t",
+    "percentage": "Oznacza, że nad przejazdem kolejowym zawieszona jest sieć trakcyjna. Do dnia 31.12.2005 umieszczona przed przejazdem kolejowym tablica z białym tłem, na której umieszczono symbol czaszki i napis \"Baczność! Nie dotykać przewodów!\" miała takie samo znaczenie jak znak G-2."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-3.png",
+    "serial": "G-3",
+    "title": "Krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym",
+    "visit": "Krzyż św. Andrzeja przed przejazdem kolejowym jednotorowym\t",
+    "percentage": "Wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór; informuje, że na przejeździe występuje jeden tor. Nie wymusza zatrzymania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/G-4.png",
+    "serial": "G-4",
+    "title": "Krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym",
+    "visit": "Krzyż św. Andrzeja przed przejazdem kolejowym wielotorowym\t",
+    "percentage": "Wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór; informuje, że na przejeździe występuje wiecej niż jeden tor. Nie wymusza zatrzymania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-1.png",
+    "serial": "C-1",
+    "title": "Znak nakazu C-1-nakaz-jazdy-w-prawo-przed-znakiem",
+    "visit": "Nakaz jazdy w prawo przed znakiem",
+    "percentage": "Zobowiązuje kierującego do jazdy w prawo przed znakiem; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-2.png",
+    "serial": "C-2",
+    "title": "Znak nakazu C-2-nakaz-jazdy-w-prawo-za-znakiem",
+    "visit": "Nakaz jazdy w prawo za znakiem\t",
+    "percentage": "Zobowiązuje kierującego do jazdy w prawo za znakiem; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-3.png",
+    "serial": "C-3",
+    "title": "Znak nakazu C-3-nakaz-jazdy-w-lewo-przed-znakiem",
+    "visit": "Nakaz jazdy w lewo przed znakiem\t",
+    "percentage": "Zobowiązuje kierującego do jazdy w lewo przed znakiem; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-4.png",
+    "serial": "C-4",
+    "title": "Znak nakazu C-4-nakaz-jazdy-w-lewo-za-znakiem",
+    "visit": "Nakaz jazdy w lewo za znakiem\t",
+    "percentage": "Zobowiązuje kierującego do jazdy w lewo za znakiem; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-5.png",
+    "serial": "C-5",
+    "title": "Znak nakazu C-5-nakaz-jazdy-prosto",
+    "visit": "Nakaz jazdy prosto\t",
+    "percentage": "Zobowiązuje kierującego do jazdy prosto; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-6.png",
+    "serial": "C-6",
+    "title": "Znak nakazu C-6-nakaz-jazdy-prosto-lub-w-prawo",
+    "visit": "Nakaz jazdy prosto lub w prawo\t",
+    "percentage": "Zobowiązuje kierującego do jazdy prosto lub w prawo; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-7.png",
+    "serial": "C-7",
+    "title": "Znak nakazu C-7-nakaz-jazdy-prosto-lub-w-lewo",
+    "visit": "Nakaz jazdy prosto lub w lewo\t",
+    "percentage": "Zobowiązuje kierującego do jazdy prosto lub w lewo; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-8.png",
+    "serial": "C-8",
+    "title": "Znak nakazu C-8-nakaz-jazdy-w-prawo-lub-w-lewo",
+    "visit": "Nakaz jazdy w prawo lub w lewo\t",
+    "percentage": "Zobowiązuje kierującego do jazdy w prawo lub w lewo; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-9.png",
+    "serial": "C-9",
+    "title": "Znak nakazu C-9-nakaz-jazdy-z-prawej-strony-znaku",
+    "visit": "Nakaz jazdy z prawej strony znaku\t",
+    "percentage": "Zobowiązuje kierującego do jazdy z prawej strony znaku; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-10.png",
+    "serial": "C-10",
+    "title": "Znak nakazu C-10-nakaz-jazdy-z-lewej-strony-znaku",
+    "visit": "Nakaz jazdy z lewej strony znaku\t",
+    "percentage": "Zobowiązuje kierującego do jazdy z lewej strony znaku; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-11.png",
+    "serial": "C-11",
+    "title": "Znak nakazu C-11-nakaz-jazdy-z-prawej-lub-lewej-strony-znaku",
+    "visit": "Nakaz jazdy z prawej lub z lewej strony znaku\t",
+    "percentage": "Zobowiązuje kierującego do jazdy z prawej lub z lewej strony znaku; znak ten może być umieszczony na przedłużeniu osi drogi (jezdni) lub na samej jezdni. Znak obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-12.png",
+    "serial": "C-12",
+    "title": "Znak nakazu C-12-ruch-okrezny",
+    "visit": "Ruch okrężny\t",
+    "percentage": "Oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku. Znak C-12 występujący łącznie ze znakiem A-7 oznacza pierwszeństwo kierującego znajdującego się na skrzyżowaniu przed kierującym wjeżdżającym (wchodzącym) na to skrzyżowanie"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-13.png",
+    "serial": "C-13",
+    "title": "Znak nakazu C-13-droga-dla-rowerow",
+    "visit": "Droga dla rowerów\t",
+    "percentage": "Oznacza drogę przeznaczoną dla kierujących rowerami jednośladowymi, którzy są obowiązani do korzystania z tej drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-13a.png",
+    "serial": "C-13a",
+    "title": "Znak nakazu C-13a-koniec-drogi-dla-rowerow",
+    "visit": "Koniec drogi dla rowerów\t",
+    "percentage": "Oznacza koniec drogi przeznaczonej dla kierujących rowerami jednośladowymi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-14.png",
+    "serial": "C-14",
+    "title": "Znak nakazu C-14-predkosc-minimalna",
+    "visit": "Prędkość minimalna\t",
+    "percentage": "Oznacza, że kierujący, przy zachowaniu ograniczeń prędkości wynikających z przepisów szczegółowych, jest obowiązany jechać z prędkością nie mniejszą niż określona na znaku liczbą kilometrów na godzinę, chyba że warunki ruchu lub jego bezpieczeństwo wymagają zmniejszenia prędkości."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-15.png",
+    "serial": "C-15",
+    "title": "Znak nakazu C-15-koniec-minimalnej-predkosci",
+    "visit": "Koniec minimalnej prędkości\t",
+    "percentage": "Oznacza miejsce, w którym prędkość minimalna określona znakiem C-14 przestaje obowiązywać."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-16.png",
+    "serial": "C-16",
+    "title": "Znak nakazu C-16-droga-dla-pieszych",
+    "visit": "Droga dla pieszych\t",
+    "percentage": "Oznacza drogę lub jej część przeznaczoną dla pieszych, którzy są obowiązani z niej korzystać."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-16a.png",
+    "serial": "C-16a",
+    "title": "Znak nakazu C-16a-koniec-drogi-dla-pieszych",
+    "visit": "Koniec drogi dla pieszych\t",
+    "percentage": "Oznacza koniec drogi przeznaczonej dla pieszych."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-17.png",
+    "serial": "C-17",
+    "title": "Znak nakazu C-17-nakazany-kierunek-jazdy-dla-pojazdow-z-materialami-niebezpiecznymi",
+    "visit": "Nakazany kierunek jazdy dla pojazdów z materiałami niebezpiecznymi\t",
+    "percentage": "Oznacza obowiązujący dla pojazdów przewożących materiały niebezpieczne, wskazany znakami C-2, C-4, C-5, C-6, C-7 lub C-8, kierunek jazdy na skrzyżowaniu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-18.png",
+    "serial": "C-18",
+    "title": "Znak nakazu C-18-nakaz-uzywania-lancuchow-przeciwposlizgowych",
+    "visit": "Nakaz używania łańcuchów przeciwpoślizgowych\t",
+    "percentage": "Ooznacza, że na drodze, na której znak został umieszczony, kierujący pojazdem silnikowym jest obowiązany stosować łańcuchy przeciwpoślizgowe na co najmniej dwóch kołach napędowych; umieszczona pod znakiem tabliczka od T-23a do T-23j oznacza, że znak dotyczy pojazdów określonych na tabliczce."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/C-19.png",
+    "serial": "C-19",
+    "title": "Znak nakazu C-19-koniec-nakazu-uzywania-lancuchow-przeciwposlizgowych",
+    "visit": "Koniec nakazu używania łańcuchów przeciwpoślizgowych\t",
+    "percentage": "Oznacza miejsce, w którym nakaz określony znakiem C-18 przestaje obowiązywać."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-1.png",
+    "serial": "P-1",
+    "title": "Znak poziomy P-1-linia-pojedyncza-przerywana",
+    "visit": "Linia pojedyncza przerywana",
+    "percentage": "1. Znak P-1, w którym kreski są krótsze od przerw lub równe przerwom, wyznacza pasy ruchu.\nZnak P-1 podwójnej szerokości, w którym kreski i przerwy są równe, informuje ponadto, że wyznaczony pas ruchu jest pasem:\nruchu powolnego,\nzanikającym,\nprzeznaczonym wyłącznie dla pojazdów wyjeżdżających na inną drogę lub jezdnię."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-2.png",
+    "serial": "P-2",
+    "title": "Znak poziomy P-2-linia-pojedyncza-ciagla",
+    "visit": "Linia pojedyncza ciągła ",
+    "percentage": "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-2.png",
+    "serial": "P-2 ",
+    "title": "Znak poziomy P-2-linia-pojedyncza-ciagla",
+    "visit": "Linia pojedyncza ciągła ",
+    "percentage": "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-2.png",
+    "serial": "P-2 ",
+    "title": "Znak poziomy P-2-linia-pojedyncza-ciagla",
+    "visit": "Linia pojedyncza ciągła ",
+    "percentage": "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-3.png",
+    "serial": "P-3 ",
+    "title": "Znak poziomy P-3-linia-jednostronnie-przekraczalna",
+    "visit": "Linia jednostronnie przekraczalna ",
+    "percentage": "Znak ten oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej, z wyjątkiem powrotu po wyprzedzaniu na pas ruchu zajmowany przed wyprzedzaniem. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-4.png",
+    "serial": "P-4 ",
+    "title": "Znak poziomy P-4-linia-podwojna-ciagla",
+    "visit": "Linia podwójna ciągła ",
+    "percentage": "Znak ten rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-5.png",
+    "serial": "P-5 ",
+    "title": "Znak poziomy P-5-linia-podwojna-przerywana",
+    "visit": "Linia podwójna przerywana ",
+    "percentage": "Linia ta (znajdująca się między skrzyżowaniami po obu stronach pasa ruchu) oznacza pas o zmiennym kierunku ruchu otwieranym i zamykanym sygnałami świetlnymi nadawanymi przez sygnalizator S-4. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-6.png",
+    "serial": "P-6 ",
+    "title": "Znak poziomy P-6-linia-ostrzegawcza",
+    "visit": "Linia ostrzegawcza ",
+    "percentage": "Znak ten (linia, w której kreski są dłuższe od przerw) rozdziela pasy ruchu i uprzedza o zbliżaniu się do linii, przez którą przejeżdżanie jest zabronione, lub do miejsca niebezpiecznego. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-7a.png",
+    "serial": "P-7a ",
+    "title": "Znak poziomy P-7a-linia-krawedziowa-przerywana",
+    "visit": "Linia krawędziowa przerywana ",
+    "percentage": "Znak ten wyznacza krawędź jezdni.\nNa odcinku drogi oznaczonym tym znakiem dopuszczalny jest zjazd z jezdni i wjazd na nią oraz postój na poboczu. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-7b.png",
+    "serial": "P-7b ",
+    "title": "Znak poziomy P-7b-linia-krawedziowa-ciagla",
+    "visit": "Linia krawędziowa ciągła ",
+    "percentage": "Znak ten wyznacza krawędź jezdni.\nNa odcinku drogi oznaczonym tym znakiem niedopuszczalny jest zjazd z jezdni i wjazd na nią oraz postój na poboczu. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-8a.png",
+    "serial": "P-8a ",
+    "title": "Znak poziomy P-8a-strzalka-kierunkowa-na-wprost",
+    "visit": "Strzałka kierunkowa na wprost ",
+    "percentage": "Znak ten oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunkach wskazanych strzałką kierunkową; połączone symbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi.\nStrzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3 "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-8b.png",
+    "serial": "P-8b ",
+    "title": "Znak poziomy P-8b-strzalka-kierunkowa-do-skrecania",
+    "visit": "Strzałka kierunkowa do skręcania ",
+    "percentage": "Znak ten oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunkach wskazanych strzałką kierunkową; połączone symbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi.\nStrzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3 "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-8c.png",
+    "serial": "P-8c ",
+    "title": "Znak poziomy P-8c-strzalka-kierunkowa-do-zawracania",
+    "visit": "Strzałka kierunkowa do zawracania ",
+    "percentage": "Znak ten oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunkach wskazanych strzałką kierunkową; połączone symbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi.\nStrzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3 "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-9.png",
+    "serial": "P-9 ",
+    "title": "Znak poziomy P-9-strzalka-naprowadzajaca-w-lewo",
+    "visit": "strzałka naprowadzająca w lewo ",
+    "percentage": "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-9b.png",
+    "serial": "P-9b ",
+    "title": "Znak poziomy P-9b-strzalka-naprowadzajaca-w-prawo",
+    "visit": "strzałka naprowadzająca w prawo ",
+    "percentage": "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-10.png",
+    "serial": "P-10 ",
+    "title": "Znak poziomy P-10-przejscie-dla-pieszych",
+    "visit": "Znak ten oznacza miejsce przeznaczone do przechodzenia pieszych w poprzek drogi. ",
+    "percentage": "BRAK KLASY PERCENTAGE"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-11.png",
+    "serial": "P-11 ",
+    "title": "Znak poziomy P-11-przejazd-dla-rowerzystow",
+    "visit": "BRAK KLASY VISIT",
+    "percentage": "Znak ten oznacza miejsce przejazdu dla rowerzystów. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-12.png",
+    "serial": "P-12 ",
+    "title": "Znak poziomy P-12-linia-bezwglednego-zatrzymania",
+    "visit": "Linia bezwzględnego zatrzymania - stop ",
+    "percentage": "Znak ten wskazuje miejsce zatrzymania pojazdu w związku ze znakami pionowymi B-20 lub B-32.\nZatrzymanie pojazdu powinno nastąpić w takim miejscu, aby cały pojazd znajdował się przed linią wyznaczającą miejsce zatrzymania. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-13.png",
+    "serial": "P-13 ",
+    "title": "Znak poziomy P-13-linia-warunkowego-zatrzymania-zlozona-z-trojkatow",
+    "visit": "Linia warunkowego zatrzymania złożona z trójkątów ",
+    "percentage": "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7.\nZatrzymanie pojazdu powinno nastąpić w takim miejscu, aby cały pojazd znajdował się przed linią wyznaczającą miejsce zatrzymania. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-14.png",
+    "serial": "P-14 ",
+    "title": "Znak poziomy P-14-linia-warunkowego-zatrzymania-zlozona-z-prostokatow",
+    "visit": "Linia warunkowego zatrzymania złożona z prostokątów ",
+    "percentage": "Znak ten wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-15.png",
+    "serial": "P-15 ",
+    "title": "Znak poziomy P-15-trojkat-podporzadkowania",
+    "visit": "trójkąt podporządkowania ",
+    "percentage": " "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-16.png",
+    "serial": "P-16 ",
+    "title": "Znak poziomy P-16-napis stop",
+    "visit": "napis STOP ",
+    "percentage": "może być stosowany dodatkowo do znaku pionowego Stop lub linia bezwzględnego zatrzymania - stop, jeśli zastosowano znak drogowy pionowy Stop "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-17.png",
+    "serial": "P-17 ",
+    "title": "Znak poziomy P-17-linia-przystankowa",
+    "visit": "linia przystankowa ",
+    "percentage": "znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-18.png",
+    "serial": "P-18 ",
+    "title": "Znak poziomy P-18-stanowisko-postojowe",
+    "visit": "stanowisko postojowe ",
+    "percentage": "znak ten wskazuje sposób parkowania pojazdów. Zakazuje on również parkowania obok "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-19.png",
+    "serial": "P-19 ",
+    "title": "Znak poziomy P-19-linia-wyznaczajaca-pas-postoju",
+    "visit": "linia wyznaczająca pas postoju ",
+    "percentage": "znak ten wskazuje miejsce na jezdni, przeznaczone do parkowania pojazdów "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-20.png",
+    "serial": "P-20 ",
+    "title": "Znak poziomy P-20-koperta",
+    "visit": "koperta ",
+    "percentage": "znak ten wskazuje miejsce przeznaczone do parkowania tylko niektórych pojazdów ustalonych przez terenowy oddział administracji. Postój innych pojazdów jest zabroniony "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-21.png",
+    "serial": "P-21 ",
+    "title": "Znak poziomy P-21-powierzchnia-wylaczona-z-ruchu-o-liniowaniu-prostym",
+    "visit": "Powierzchnia wyłączona z ruchu o liniowaniu prostym ",
+    "percentage": "linie te oznaczają odcinek drogi wyłączony z ruchu drogowego "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-22.png",
+    "serial": "P-22 ",
+    "title": "Znak poziomy P-22-bus",
+    "visit": "bus ",
+    "percentage": "oznacza, że pas jezdni, na którym jest on namalowany przeznaczony jest tylko dla komunikacji publicznej "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-23.png",
+    "serial": "P-23 ",
+    "title": "Znak poziomy P-23-rower",
+    "visit": "rower ",
+    "percentage": "Znak poziomy P-23 oznacza, że droga lub pas jezdni jest przeznaczony tylko do ruchu rowerów jednośladowych "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-24.png",
+    "serial": "P-24 ",
+    "title": "Znak poziomy P-24-miejsce-dla-pojazdu-osoby-niepelnosprawnej",
+    "visit": "miejsce dla pojazdu osoby niepełnosprawnej ",
+    "percentage": "Informacja o miejscu dla osoby niepełnosprawnej."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/P-25.png",
+    "serial": "P-25 ",
+    "title": "Znak poziomy P-25-prog-zwalniajacy",
+    "visit": "Próg zwalniający ",
+    "percentage": "Informacja o przeszkodzie na drodze - progu zwalniającym."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-1.png",
+    "serial": "F-1",
+    "title": "Przejście graniczne",
+    "visit": "Przejście graniczne\t",
+    "percentage": "Informuje o czynnym przejściu granicznym."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-2.png",
+    "serial": "F-2",
+    "title": "Przekraczanie granicy zabronione",
+    "visit": "Przekraczanie granicy zabronione\t",
+    "percentage": "Informuje, że ruch przez granicę jest zamknięty."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-2a.png",
+    "serial": "F-2a",
+    "title": "Granica państwa",
+    "visit": "Granica państwa\t",
+    "percentage": "Informuje o miejscu przekroczenia granicy Rzeczpospolitej Polskiej"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-3.png",
+    "serial": "F-3",
+    "title": "Granica obszaru administracyjnego",
+    "visit": "Granica obszaru administracyjnego\t",
+    "percentage": "z napisami \"województwo\", \"powiat\" lub \"gmina\" i umieszczonymi nazwami, informuje o wjeździe odpowiednio na obszar województwa, powiatu i gminy, albo gminy."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-4.png",
+    "serial": "F-4",
+    "title": "Nazwa rzeki",
+    "visit": "Nazwa rzeki\t",
+    "percentage": "Podaje nazwę rzeki lub innego cieku wodnego, nad którym przebiega droga."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-5.png",
+    "serial": "F-5",
+    "title": "uprzedzenie o zakazie",
+    "visit": "Uprzedzenie o zakazie",
+    "percentage": "Uprzedza o znaku zakazu umieszczo- nym na drodze w odległości wskazanej na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-6.png",
+    "serial": "F-6",
+    "title": "Znak uprzedzający, umieszczany przed skrzyżowaniem",
+    "visit": "Znak uprzedzający, umieszczany przed skrzyżowaniem\t",
+    "percentage": "Uprzedza o wskazanym na nim odpowiednim znakiem niebezpieczeństwie lub zakazie występującym za skrzyżowaniem na wskazanej drodze."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-7.png",
+    "serial": "F-7",
+    "title": "Sposób jazdy w związku z zakazem skręcania w lewo",
+    "visit": "Sposób jazdy w związku z zakazem skręcania w lewo\t",
+    "percentage": "Wskazuje dojazd do drogi, w którą skręcanie w lewo jest zabronione."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-8.png",
+    "serial": "F-8",
+    "title": "Objazd w związku z zamknięciem drogi",
+    "visit": "Objazd w związku z zamknięciem drogi\t",
+    "percentage": "Wskazuje wyznaczony objazd; jeżeli na znaku F-8 umieszczono znak zakazujący wjazdu określonych pojazdów, oznacza to, że objazd dotyczy pojazdów wskazanych na znaku zakazu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-9.png",
+    "serial": "F-9",
+    "title": "Znak prowadzący na drodze objazdowej",
+    "visit": "Znak prowadzący na drodze objazdowej\t",
+    "percentage": "Wskazuje kierunek ruchu pojazdów na wyznaczonym objeździe."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-10.png",
+    "serial": "F-10",
+    "title": "Kierunki na pasach ruchu",
+    "visit": "Kierunki na pasach ruchu\t",
+    "percentage": "Wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu.Umieszczona na znaku strzałka zezwalająca na skręcanie w lewo ze skrajnego lewego pasa ruchu oznacza także zezwolenie na zawracanie, chyba że jest to zabronione znakiem B-23 lub ruch jest kierowany sygnalizatorem S-3."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-11.png",
+    "serial": "F-11",
+    "title": "Kierunki na pasie ruchu",
+    "visit": "Kierunki na pasie ruchu\t",
+    "percentage": "Wkazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z pasa ruchu, nad którym znak został umieszczony. Umieszczona na znaku strzałka zezwalająca na skręcanie w lewo ze skrajnego lewego pasa ruchu oznacza także zezwolenie na zawracanie, chyba że jest to zabronione znakiem B-23 lub ruch jest kierowany sygnalizatorem S-3."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-12.png",
+    "serial": "F-12",
+    "title": "Znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem",
+    "visit": "Znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem\t",
+    "percentage": "Wskazuje zgodnie ze strzałką kierunek przejazdu tranzytowego pojazdów wskazanych umieszczonym na znaku symbolem pojazdu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-13.png",
+    "serial": "F-13",
+    "title": "Przejazd tranzytowy",
+    "visit": "Przejazd tranzytowy\t",
+    "percentage": "Wskazuje zgodnie ze strzałką kierunek przejazdu tranzytowego pojazdów wskazanych umieszczonym na znaku symbolem pojazdu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-14a.png",
+    "serial": "F-14a",
+    "title": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania",
+    "visit": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania\t",
+    "percentage": "Informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-14b.png",
+    "serial": "F-14b",
+    "title": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania",
+    "visit": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania\t",
+    "percentage": "Informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-14c.png",
+    "serial": "F-14c",
+    "title": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania",
+    "visit": "Tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania\t",
+    "percentage": "Informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-15.png",
+    "serial": "F-15",
+    "title": "Niesymetryczny podział jezdni dla przeciwnych kierunków ruchu",
+    "visit": "Niesymetryczny podział jezdni dla przeciwnych kierunków ruchu\t",
+    "percentage": "Wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-16.png",
+    "serial": "F-16",
+    "title": "Koniec pasa ruchu na jezdni dwukierunkowej",
+    "visit": "Koniec pasa ruchu na jezdni dwukierunkowej\t",
+    "percentage": "Uprzedza o końcu wewnętrznego pasa ruchu na jezdni wskazanej na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-17.png",
+    "serial": "F-17",
+    "title": "Koniec pasa ruchu na jezdni jednokierunkowej",
+    "visit": "Koniec pasa ruchu na jezdni jednokierunkowej\t",
+    "percentage": "Uprzedza o końcu wewnętrznego pasa ruchu na jezdni wskazanej na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-18.png",
+    "serial": "F-18",
+    "title": "Przeciwny kierunek dla określonych pojazdów",
+    "visit": "Przeciwny kierunek dla określonych pojazdów\t",
+    "percentage": "Wskazuje lewy pas ruchu przeznaczony tylko dla pojazdów określonych na znaku, poruszających się w kierunku przeciwnym."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-19.png",
+    "serial": "F-19",
+    "title": "Pas ruchu dla określonych pojazdów",
+    "visit": "Pas ruchu dla określonych pojazdów\t",
+    "percentage": "Wskazuje wyznaczony na jezdni pas ruchu przeznaczony dla pojazdów wskazanych na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-20.png",
+    "serial": "F-20",
+    "title": "Część drogi (pas ruchu) dla określonych pojazdów",
+    "visit": "Część drogi (pas ruchu) dla określonych pojazdów\t",
+    "percentage": "Wskazuje drogę lub jej część przeznaczoną dla pojazdów, których symbol został umieszczony na znaku. Zamiast symbolu pojazdu o dopuszczalnej masie całkowitej do 3,5 t na znaku może być umieszczony symbol pojazdu stosowany na tabliczkach od T-23a do T-23j, odpowiednio do sposobu przeznaczenia drogi lub jej części."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-21.png",
+    "serial": "F-21",
+    "title": "Ruch skierowany na sąsiednią jezdnię",
+    "visit": "Ruch skierowany na sąsiednią jezdnię\t",
+    "percentage": "Wskazuje zjazd na sąsiednią jezdnię w związku z tymczasową organizacją ruchu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/F-22.png",
+    "serial": "F-22",
+    "title": "Ograniczenia na pasie ruchu",
+    "visit": "Ograniczenia na pasie ruchu\t",
+    "percentage": "Wskazuje pas ruchu, na którym jest zabroniony ruch pojazdów określonych symbolem znaku zakazu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-1.png",
+    "serial": "S-1",
+    "title": "s-1-sygnalizator-z sygnałami do kierowania ruchem",
+    "visit": "Sygnalizator z sygnałami do kierowania ruchem",
+    "percentage": " Sygnały świetlne nadawane przez sygnalizator     S-1 oznaczają:<br>  1) sygnał zielony - zezwolenie na wjazd za sygnalizator,<br>  2) sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez     gwałtownego hamowania; sygnał ten oznacza jedno- cześnie, że za chwilę zapali się sygnał czerwony,<br>3)sygnał czerwony - zakaz wjazdu za sygnalizator,<br>  4) sygnały czerwony i żółty, nadawane jednocześnie - zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za chwilę zapali się sygnał zielony.<br>  2. Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli:<br>1)ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom,<br>2)ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zielonego.<br> 3. Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały o dwóch barwach - zielonej i czerwonej.<br>4. Kierujący pojazdem szynowym skręcający na skrzyżo- waniu o ruchu kierowanym sygnałami świetlnymi może je opuścić, z zastrzeżeniem ust. 1 pkt 2-4, pod warunkiem ustąpienia     pierwszeństwa uczestnikom ruchu poruszają- cym się na wprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okręż- nym oznaczonym znakami C-12'"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-2.png",
+    "serial": "S-2",
+    "title": "s-2-sygnalizator z sygnalem dopuszczajacym skrecanie w kierunku wskazanym strzalka",
+    "visit": "opuszczającym skręcanie w kierunku wskazanym strzałką",
+    "percentage": " Nadawany przez sygnalizator S-2 sygnał     czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu.  Sygnał w kształcie zielonej strzałki, nadawany przez sy- gnalizator S-2, zezwalający na skręcanie w lewo, zezwala również na zawracanie z lewego skrajnego pasa ruchu, chyba że     jest to zabronione znakiem B-23.  2. Skręcanie lub zawracanie, o których mowa powyżej jest dozwolone pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego     uczestnikom"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-3.png",
+    "serial": "S-3",
+    "title": "s-3-sygnalizator kierunkowy",
+    "visit": "sygnalizator kierunkowy",
+    "percentage": "Sygnały świetlne nadawane przez sygnalizator kierunkowy S-3 dotyczą kierujących jadących w kierunkach wskazanych strzałką (strzałkami). Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza ponadto, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu. Sygnalizatory kierunkowe S-3 nadające sygnały przeznaczone tylko dla pojazdów skręcających w lewo mogą nie być umieszczone po prawej stronie drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-4.png",
+    "serial": "S-4",
+    "title": "s-4-sygnalizator z sygnalami dla pasow ruchu",
+    "visit": "sygnalizator z sygnałami dla pasów ruchu",
+    "percentage": "Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają: sygnał zielony - zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony, sygnał czerwony - zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-5.png",
+    "serial": "S-5",
+    "title": "s-5-sygnalizator z sygnalami dla pieszych",
+    "visit": "sygnalizator z sygnałami dla pasów ruchu",
+    "percentage": "Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają: sygnał zielony - zezwolenie na wejście na przejście dla pieszych, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i pieszy jest obowiązany jak najszybciej opuścić przejście, sygnał czerwony - zakaz wejścia na przejście."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-6.png",
+    "serial": "S-6",
+    "title": "s-6-sygnałami dla rowerzystow",
+    "visit": "Sygnalizator z sygnałami dla rowerzystów ",
+    "percentage": "Sygnały świetlne dla rowerzystów nadawane przez sygnalizator S-6 oznaczają: sygnał zielony - zezwolenie na wjazd na przejazd dla rowerzystów, przy czym sygnał zielony migający oznacza, że za chwilę zapali się sygnał czerwony i rowerzysta jest obowiązany jak najszybciej opuścić przejazd; sygnał czerwony - zakaz wjazdu na przejazd."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/S-7.png",
+    "serial": "S-7",
+    "title": "s-7-sygnalizator z sygnalem nakazującym opuszczenie pasa ruchu",
+    "visit": "Nakaz opuszczenia pasa ruchu  ",
+    "percentage": "Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad którym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po stronie wskazanej strzałką."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/SB.png",
+    "serial": "SB",
+    "title": "Sygnalizator z sygnałami dla kierujących autobusami",
+    "visit": "Sygnalizator z sygnałami dla kierujących autobusami",
+    "percentage": "Sygnał w kształcie kreski pionowej - zezwolenie     na wjazd za sygnalizator,<br>  2) sygnał w kształcie dwóch kropek - zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które w chwili zapalenia się tego sygnału znajdują się tak blisko     sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej,<br>  3) sygnał w kształcie kreski poziomej - zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie sygnały w kształcie kreski poziomej i dwóch kropek     oznaczające także, że za chwilę zapali się sygnał w kształcie kreski pionowej. <br>  Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:<br>  1) ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom,<br>  2) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za     sygnalizator. Sygnały świetlne nadawane przez sygnalizator SB bez tabliczki z napisem BUS, dotyczą kierujących tramwajami."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/ST.png",
+    "serial": "ST",
+    "title": "sygnalizator z sygnałami dla tramwajów",
+    "visit": "Sygnalizator z sygnałami dla tramwajów",
+    "percentage": "\n\t\t\t\t\t1) Sygnał w kształcie kreski pionowej - zezwolenie na wjazd za sygnalizator,<br>  2) sygnał w kształcie kreski pionowej migający - zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami, które w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej,<br>  3) sygnał w kształcie kreski poziomej - zakaz wjazdu za sygnalizator.<br>   Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:<br>  a) ruch tramwaju utrudniłby opuszczenie jezdni pieszym lub rowerzystom,<br>  b) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.\n\t\t\t\t\t\n\t\t\t\t\t"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/STk.png",
+    "serial": "STk",
+    "title": "sygnalizator kierunkowy dla tramwajów",
+    "visit": "Sygnalizator kierunkowy dla tramwajów",
+    "percentage": "\n\t\t\t\t\t1)Sygnał w kształcie kreski pionowej - zezwolenie     na wjazd za sygnalizator,<br>  2) sygnał w kształcie kreski pionowej migający - zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami, które w chwili zapalenia się tego sygnału znajdują się tak blisko     sygnalizatora, że nie mogą być zatrzymane przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej,<br>  3) sygnał w kształcie kreski poziomej - zakaz wjazdu za sygnalizator.<br>   Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli:<br>  a) ruch tramwaju utrudniłby opuszczenie jezdni pieszym lub rowerzystom,<br>  b) ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem nadawania sygnału zezwalającego na wjazd za sygnalizator.\n\t\t\t\t\t\n\t\t\t\t\t"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-1.png",
+    "serial": "A-1",
+    "title": "Znak ostrzegawczy A-1 niebezpieczy zakret w prawo",
+    "visit": "Niebezpieczny zakręt w prawo",
+    "percentage": "Ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-2.png",
+    "serial": "A-2",
+    "title": "Znak ostrzegawczy A-2 niebezpieczny zakret w lewo",
+    "visit": "Niebezpieczny zakręt w lewo",
+    "percentage": "Ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-3.png",
+    "serial": "A-3",
+    "title": "Znak ostrzegawczy A-3-niebezpieczne-zakrety-pierwszy-w-prawo",
+    "visit": "Niebezpieczne zakręty, pierwszy w prawo",
+    "percentage": "Ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo. Może występować z tabliczką T-4 lub T-5. "
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-4.png",
+    "serial": "A-4",
+    "title": "Znak ostrzegawczy A-4-niebezpieczne-zakrety-pierwszy-w-lewo",
+    "visit": "Niebezpieczne zakręty, pierwszy w lewo",
+    "percentage": "Ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo. Może występować z tabliczką T-4 lub T-5."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-5.png",
+    "serial": "A-5",
+    "title": "Znak ostrzegawczy A-5-skrzyzowanie-drog",
+    "visit": "Skrzyżowanie dróg",
+    "percentage": "Ostrzega o skrzyzowaniu dróg, na którym pierwszeństwo przejazdu nie jest określone znakami."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6a.png",
+    "serial": "A-6a",
+    "title": "A-6a-skrzyzowanie-zdroga-podporzadkowana-wystepujaca-po-obu-stronach",
+    "visit": "Skrzyżowanie z drogą podporządkowaną występującą po obu stronach ",
+    "percentage": "Ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po obu stronach. Umieszczona pod znakiem tabliczka T-6b wskazuje układ dróg na skrzyżowaniu. Gruba linia na znakach i tabliczkach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6b.png",
+    "serial": "A-6b",
+    "title": "Znak ostrzegawczy A-6b-skrzyzowanie-z-droga-podporzadkowana-po-prawej-stronie",
+    "visit": "Skrzyżowanie z drogą podporządkowaną występującą po prawej stronie ",
+    "percentage": "Ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po stronie prawej. Umieszczona pod znakiem tabliczka T-6b wskazuje układ dróg na skrzyżowaniu. Gruba linia na znakach i tabliczkach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6c.png",
+    "serial": "A-6c",
+    "title": "Znak ostrzegawczy A-6c skrzyzowanie-z-droga-podporzadkowana-wystepujaca-po-lewej-stronie",
+    "visit": "Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie",
+    "percentage": "Ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po stronie lewej. Umieszczona pod znakiem tabliczka T-6b wskazuje układ dróg na skrzyżowaniu. Gruba linia na znakach i tabliczkach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6c.png",
+    "serial": "A-6c",
+    "title": "Znak ostrzegawczy A-6cskrzyzowanie-z-droga-podporzadkowana-wystepujaca-po-lewej-stronie",
+    "visit": "Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie\t",
+    "percentage": "Ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po stronie lewej. Umieszczona pod znakiem tabliczka T-6b wskazuje układ dróg na skrzyżowaniu. Gruba linia na znakach i tabliczkach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6d.png",
+    "serial": "A-6d",
+    "title": "Znak ostrzegawczy A-6d-wlot-drogi-jednokierunkowej-z-prawej-strony",
+    "visit": "Wlot drogi jednokierunkowej z prawej strony\t",
+    "percentage": "Ostrzega o skrzyżowaniu z jednokierunkową drogą podporządkowaną, której wlot występuje po stronie prawej. Gruba linia na znakach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-6e.png",
+    "serial": "A-6e",
+    "title": "Znak ostrzegawczy A-6e-wlot-drogi-jednokierunkowej-z-lewej-strony",
+    "visit": "Wlot drogi jednokierunkowej z lewej strony\t",
+    "percentage": "Ostrzega o skrzyżowaniu z jednokierunkową drogą podporządkowaną, której wlot występuje po stronie lewej. Gruba linia na znakach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-7.png",
+    "serial": "A-7",
+    "title": "Znak ostrzegawczy A-7-ustap-pierwszenstwa",
+    "visit": "Ustąp pierwszeństwa\t",
+    "percentage": "Ostrzega o skrzyżowaniu z drogą z pierwszeństwem. Znak A-7 znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został umieszczony. Przepis stosuje się odpowiednio do znaku A-7 umieszczonego przed torowiskiem pojazdów szynowych lub w innych miejscach przecinania się kierunków ruchu. Umieszczona pod znakiem A-7 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie. Gruba linia na tabliczkach oznacza drogę z pierwszeństwem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-8.png",
+    "serial": "A-8",
+    "title": "Znak ostrzegawczy A-8-skrzyzowanie-o-ruchu-okreznym",
+    "visit": "Skrzyżowanie o ruchu okrężnym\t",
+    "percentage": "Ostrzega o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-9.png",
+    "serial": "A-9",
+    "title": "Znak ostrzegawczy A-9-przejazd-kolejowy-z-zaporami",
+    "visit": "Przejazd kolejowy z zaporami\t",
+    "percentage": "Ostrzega o przejeździe kolejowym wyposażonym w zapory lub półzapory. Umieszczona pod znakiem A-9 tabliczka T-7 wskazuje układ torów i drogi na przejeździe."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-10.png",
+    "serial": "A-10",
+    "title": "Znak ostrzegawczy A-10-przejazd-kolejowy-bez-zapor",
+    "visit": "Przejazd kolejowy bez zapór\t",
+    "percentage": "Ostrzega o przejeździe kolejowym niewyposażonym ani w zapory, ani w półzapory. Umieszczona pod znakiem A-10 tabliczka T-7 wskazuje układ torów i drogi na przejeździe."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-11.png",
+    "serial": "A-11",
+    "title": "Znak ostrzegawczy A-11-nierowna-droga",
+    "visit": "Nierówna droga\t",
+    "percentage": "Ostrzega o poprzecznej nierówności jezdni"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-11a.png",
+    "serial": "A-11a",
+    "title": "Znak ostrzegawczy A-11a-prog-zwalniajacy",
+    "visit": "Próg zwalniający\t",
+    "percentage": "Ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu pojazdów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-12a.png",
+    "serial": "A-12a",
+    "title": "Znak ostrzegawczy A-12a-zwezenie-jezdni-dwustronne",
+    "visit": "Zwężenie jezdni - dwustronne\t",
+    "percentage": "Ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-12b.png",
+    "serial": "A-12b",
+    "title": "Znak ostrzegawczy A-12b-zwezenie-jezdni-prawostronne",
+    "visit": "Zwężenie jezdni - prawostronne\t",
+    "percentage": "Ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-12c.png",
+    "serial": "A-12c",
+    "title": "Znak ostrzegawczy A-12c-zwezenie-jezdni-lewostronne",
+    "visit": "Zwężenie jezdni - lewostronne\t",
+    "percentage": "Ostrzega o występującym po lewej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-13.png",
+    "serial": "A-13",
+    "title": "Znak ostrzegawczy A-13-ruchomy-most",
+    "visit": "Ruchomy most\t",
+    "percentage": "Ostrzega o wjeździe na most zwodzony lub obrotowy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-14.png",
+    "serial": "A-14",
+    "title": "Znak ostrzegawczy A-14-roboty-drogowe",
+    "visit": "Roboty drogowe\t",
+    "percentage": "Ostrzega o prowadzonych na drodze robotach; umieszczona pod znakiem tabliczka T-19 wskazuje na malowanie znaków poziomych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-15.png",
+    "serial": "A-15",
+    "title": "Znak ostrzegawczy A-15-sliska-jezdnia",
+    "visit": "Śliska jezdnia\t",
+    "percentage": "Ostrzega o możliwości poślizgu pojazdu spowodowanego w szczególności zmianą nawierzchni jezdni, stałym lub okresowym jej zawilgoceniem itd."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-16.png",
+    "serial": "A-16",
+    "title": "Znak ostrzegawczy A-16-przejscie-dla-pieszych",
+    "visit": "Przejście dla pieszych\t",
+    "percentage": "Ostrzega o przejściu dla pieszych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-17.png",
+    "serial": "A-17",
+    "title": "Znak ostrzegawczy A-17-dzieci",
+    "visit": "Dzieci",
+    "percentage": "Ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-18a.png",
+    "serial": "A-18a",
+    "title": "Znak ostrzegawczy A-18a-zwierzeta-gospodarskie",
+    "visit": "Zwierzęta gospodarskie\t",
+    "percentage": "Ostrzega o możliwości napotkania na drodze zwierząt gospodarskich"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-18b.png",
+    "serial": "A-18b",
+    "title": "Znak ostrzegawczy A-18b-zwierzeta-dzikie",
+    "visit": "Zwierzęta dzikie\t",
+    "percentage": "Ostrzega o możliwości napotkania na drodze zwierząt dzikich"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-19.png",
+    "serial": "A-19",
+    "title": "Znak ostrzegawczy A-19-boczny-wiatr",
+    "visit": "Boczny wiatr\t",
+    "percentage": "Ostrzega o miejscu, w którym mogą występować silne boczne podmuchy wiatru."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-20.png",
+    "serial": "A-20",
+    "title": "Znak ostrzegawczy A-20-odcinek-jezdni-o-ruchu-dwukierunkowym",
+    "visit": "Odcinek jezdni o ruchu dwukierunkowym\t",
+    "percentage": "Ostrzega jadących jezdnią jednokierunkową o miejscu, w którym rozpoczyna się ruch dwukierunkowy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-21.png",
+    "serial": "A-21",
+    "title": "Znak ostrzegawczy A-21-tramwaj",
+    "visit": "Tramwaj",
+    "percentage": "Ostrzega o przejeździe przez tory tramwajowe. Umieszczona pod znakiem tabliczka T-7 wskazuje układ torów i drogi na tym przejeździe"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-22.png",
+    "serial": "A-22",
+    "title": "Znak ostrzegawczy A-22-niebezpieczny-zjazd",
+    "visit": "Niebezpieczny zjazd\t",
+    "percentage": "Ostrzega o znacznym spadku podłużnym drogi. Umieszczona pod znakiem tabliczka T-9 wskazuje rzeczywistą wielkość spadku, np. wartość 8% oznacza, że droga na długości 100m opada o 8 m."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-23.png",
+    "serial": "A-23",
+    "title": "Znak ostrzegawczy A-23-stromy-podjazd",
+    "visit": "Stromy podjazd\t",
+    "percentage": "Ostrzega o znacznym wzniesieniu drogi. Umieszczona pod znakiem tabliczka T-9 wskazuje rzeczywistą wielkość wzniesienia, np. wartość 8% oznacza, że droga na długości 100m wznosi się o 8 m."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-24.png",
+    "serial": "A-24",
+    "title": "Znak ostrzegawczy A-24-rowerzysci",
+    "visit": "Rowerzyści",
+    "percentage": "Ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-25.png",
+    "serial": "A-25",
+    "title": "Znak ostrzegawczy A-25-spadajace-odlamki-skalne",
+    "visit": "Spadające odłamki skalne\t",
+    "percentage": "Ostrzega o możliwości spadania na drogę lub zalegania na niej odłamków skalnych o znacznej wielkości."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-26.png",
+    "serial": "A-26",
+    "title": "Znak ostrzegawczy A-26-lotnisko",
+    "visit": "Lotnisko",
+    "percentage": "Ostrzega o możliwości nagłego pojawienia się nisko przelatującego samolotu lub śmigłowca"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-27.png",
+    "serial": "A-27",
+    "title": "Znak ostrzegawczy A-27-nabrzeze-lub-brzeg-rzeki",
+    "visit": "Nabrzeże lub brzeg rzeki\t",
+    "percentage": "Ostrzega o odcinku drogi prowadzącym bezpośrednio do nabrzeża lub wzdłuż brzegu rzeki lub innego zbiornika wodnego"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-28.png",
+    "serial": "A-28",
+    "title": "Znak ostrzegawczy A-28-sypki-zwir",
+    "visit": "Sypki żwir\t",
+    "percentage": "Ostrzega o odcinku drogi pokrytej żwirem (grysem), który może być wyrzucany spod kół jadących pojazdów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-29.png",
+    "serial": "A-29",
+    "title": "Znak ostrzegawczy A-29-sygnaly-swietlne",
+    "visit": "Sygnały świetlne\t",
+    "percentage": "Ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-30.png",
+    "serial": "A-30",
+    "title": "Znak ostrzegawczy A-30-inne-niebezpieczenstwo",
+    "visit": "Inne niebezpieczeństwo\t",
+    "percentage": "Ostrzega o niebezpieczeństwie innego rodzaju niż określone pozostałymi znakami ostrzegawczymi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-31.png",
+    "serial": "A-31",
+    "title": "Znak ostrzegawczy A-31-niebezpieczne-pobocze",
+    "visit": "Niebezpieczne pobocze\t",
+    "percentage": "Ostrzega o niebezpiecznym poboczu (miękkim lub obniżonym); znak z odwróconym symbolem ostrzega o niebezpiecznym poboczu występującym po lewej stronie drogi"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-32.png",
+    "serial": "A-32",
+    "title": "Znak ostrzegawczy A-32-oszronienie-jezdni",
+    "visit": "Oszronienie jezdni\t",
+    "percentage": "Ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-33.png",
+    "serial": "A-33",
+    "title": "Znak ostrzegawczy A-33-zator-drogowy",
+    "visit": "Zator drogowy\t",
+    "percentage": "Oostrzega o częstym występowaniu zablokowania ruchu pojazdów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/A-34.png",
+    "serial": "A-34",
+    "title": "Znak ostrzegawczy A-34-wypadek-drogowy",
+    "visit": "Wypadek drogowy\t",
+    "percentage": "Ostrzega o miejscu, w którym na skutek wypadku drogowego nastąpiło zablokowanie drogi lub znaczne utrudnienie ruchu pojazdów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-1.png",
+    "serial": "B-1",
+    "title": "Znak zakazu B-1-zakaz-ruchu-w-obu-kierunkach",
+    "visit": "Zakaz ruchu w obu kierunkach",
+    "percentage": "Oznacza zakaz ruchu na drodze pojazdów, kolumn pieszych oraz jeźdźców i poganiaczy; znak może być ustawiony na jezdni. Umieszczona pod znakiem B-1 tabliczka T-22 wskazuje, że zakaz nie dotyczy rowerów jednośladowych."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-2.png",
+    "serial": "B-2",
+    "title": "Znak zakazu B-2-zakaz-wjazdu",
+    "visit": "Zakaz wjazdu",
+    "percentage": "Oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia; zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy. Umieszczona pod znakiem B-2 tabliczka T-22 wskazuje, że znak nie dotyczy rowerów jednośladowych wjeżdżających na wyznaczony na jezdni pas ruchu dla rowerów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-3.png",
+    "serial": "B-3",
+    "title": "Znak zakazu B-3-zakaz-wjazdu-pojazdow-silnikowych-z-wyjatkiem-motocykli-jednosladowych",
+    "visit": "Zakaz wjazdu pojazdów silnikowych, z wyjątkiem motocykli jednośladowych",
+    "percentage": "Oznacza zakaz ruchu pojazdów silnikowych; zakaz nie dotyczy motocykli jednośladowych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-3a.png",
+    "serial": "B-3a",
+    "title": "Znak zakazu B-3a-zakaz-wjazdu-autobusow",
+    "visit": "Zakaz wjazdu autobusów",
+    "percentage": "Oznacza zakaz ruchu autobusów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-4.png",
+    "serial": "B-4",
+    "title": "Znak zakazu B-4-zakaz-wjazdu-motocykli",
+    "visit": "Zakaz wjazdu motocykli",
+    "percentage": "Oznacza zakaz ruchu motocykli."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-5.png",
+    "serial": "B-5",
+    "title": "Znak zakazu B-5-zakaz-wjzadu-samochodow-ciezarowych",
+    "visit": "Zakaz wjazdu samochodów ciężarowych",
+    "percentage": "Oznacza zakaz ruchu:  1). samochodów ciężarowych o DMC przekraczającej 3,5 t, 2). ciągników samochodowych,  3). pojazdów specjalnych i używanych do celów specjalnych o DMC przekraczającej 3,5 t, 4). ciągników rolniczych,  5). pojazdów wolnobieżnych. Określona na znaku B-5 albo na tabliczce umieszczonej pod nim masa oznacza, że zakaz dotyczy pojazdu (zespołu pojazdów), którego dopuszczalna masa całkowita przekracza masę podaną na znaku albo na tabliczce."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-6.png",
+    "serial": "B-6",
+    "title": "Znak zakazu B-6-zakaz-wjazdu-ciagnikow-rolniczych",
+    "visit": "Zakaz wjazdu ciągników rolniczych",
+    "percentage": "Oznacza zakaz ruchu ciągników rolniczych i pojazdów wolnobieżnych."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-7.png",
+    "serial": "B-7",
+    "title": "Znak zakazu B-7-zakaz-wjzadu-pojazdow-silnikowych-z-przyczepa",
+    "visit": "Zakaz wjazdu pojazdów silnikowych z przyczepą",
+    "percentage": "Oznacza zakaz ruchu pojazdów silnikowych z przyczepą (przyczepami); zakaz nie dotyczy pojazdów z przyczepą jednoosiową lub naczepą.Określona na znaku B-7 lub na tabliczce umieszczonej pod nim masa dotyczy dopuszczalnej masy całkowitej przyczepy, a w razie ciągnięcia dwóch przyczep - sumy ich mas."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-8.png",
+    "serial": "B-8",
+    "title": "Znak zakazu B-8-zakaz-wjazdu-pojazdow-zaprzegowych",
+    "visit": "Zakaz wjazdu pojazdów zaprzęgowych",
+    "percentage": "Oznacza zakaz ruchu pojazdów zaprzęgowych oraz jeźdźców i poganiaczy."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-9.png",
+    "serial": "B-9",
+    "title": "Znak zakazu B-9-zakaz-wjazdu-rowerow",
+    "visit": "Zakaz wjazdu rowerów",
+    "percentage": "Oznacza zakaz ruchu rowerów na jezdni i poboczu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-10.png",
+    "serial": "B-10",
+    "title": "Znak zakazu B-10-zakaz-wjazdu-motorowerow",
+    "visit": "Zakaz wjazdu motorowerów",
+    "percentage": "Oznacza zakaz ruchu motorowerów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-11.png",
+    "serial": "B-11",
+    "title": "Znak zakazu B-11-zakaz-wjazdu-wozkow-rowerowych-i-rowerow-wielosladowych",
+    "visit": "Zakaz wjazdu wózków rowerowych i rowerów wielośladowych",
+    "percentage": "Oznacza zakaz wjazdu wózków rowerowych i rowerów wielośladowych."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-12.png",
+    "serial": "B-12",
+    "title": "Znak zakazu B-12-zakaz-wjazdu-wozkow-recznych",
+    "visit": "Zakaz wjazdu wózków ręcznych",
+    "percentage": "Oznacza zakaz ruchu na jezdni i poboczu wózków ręcznych przeznaczonych do używania na jezdni, prowadzonych, ciągniętych lub pchanych."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-13.png",
+    "serial": "B-13",
+    "title": "Znak zakazu B-13-zakaz-wjazdu-pojazdow-z-materialami-wybuchowymi-lub-latwo-zapalnymi",
+    "visit": "Zakaz wjazdu pojazdów z materiałami wybuchowymi lub łatwo zapalnymi",
+    "percentage": "Oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie materiałów (towarów) niebezpiecznych, materiały niebezpieczne klas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-13a.png",
+    "serial": "B-13a",
+    "title": "Znak zakazu B-13a-zakaz-wjazdu-pojazdow-z-materialami-niebezpiecznymi",
+    "visit": "Zakaz wjazdu pojazdów z materiałami niebezpiecznymi",
+    "percentage": "Oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie materiałów (towarów) niebezpiecznych, materiały niebezpieczne w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej; tabliczka z odpowiednim napisem umieszczona pod znakiem wskazuje, że zakaz dotyczy tylko określonych klas lub grup materiałów niebezpiecznych albo określonego sposobu ich przewozu."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-14.png",
+    "serial": "B-14",
+    "title": "Znak zakazu B-14-zakaz-wjazdu-pojazdow-ktore-moga-skazic-wode",
+    "visit": "Zakaz wjazdu pojazdów z materiałami, które mogą skazić wodę",
+    "percentage": "Oznacza zakaz ruchu pojazdów przewożących, określone w przepisach o przewozie materiałów (towarów) niebezpiecznych, materiały niebezpieczne klas 3, 4.3, 6.1, 6.2, 8, gazy trujące lub gazy żrące klasy 2, lub materiały zagrażające środowisku klasy 9 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-15.png",
+    "serial": "B-15",
+    "title": "Znak zakazu B-15-zakaz-wjazdu-pojazdow-o-szerokosci-ponad-m",
+    "visit": "Zakaz wjazdu pojazdów o szerokości ponad ... m.",
+    "percentage": "Oznacza zakaz ruchu pojazdów, których szerokość (również z ładunkiem) jest większa od wartości podanej na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-16.png",
+    "serial": "B-16",
+    "title": "Znak zakazu B-16-zakaz-wjazdu-pojazdow-o-wysokosci-ponad-m",
+    "visit": "Zakaz wjazdu pojazdów o wysokości ponad ... m.",
+    "percentage": "Ooznacza zakaz ruchu pojazdów, których wysokość (również z ładunkiem) jest większa od wartości podanej na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-17.png",
+    "serial": "B-17",
+    "title": "Znak zakazu B-17-zakaz-wjazdu-pojazdow-o-dlugosci-ponad-m",
+    "visit": "Zakaz wjazdu pojazdów o długości ponad ... m.",
+    "percentage": "Oznacza zakaz ruchu pojazdów lub zespołów pojazdów, których długość (również z ładunkiem) jest większa od wartości podanej na znaku"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-18.png",
+    "serial": "B-18",
+    "title": "Znak zakazu B-18-zakaz-wjazdu-pojazdow-o-rzeczywistej-masie-calkowitej-ponad-t",
+    "visit": "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad ... t.",
+    "percentage": "Onacza zakaz ruchu pojazdów, których rzeczywista masa całkowita jest większa od wartości podanej na znaku; w przypadku zespołu pojazdów zakaz dotyczy ich łącznej masy."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-19.png",
+    "serial": "B-19",
+    "title": "Znak zakazu B-19-zakaz-wjazdu-pojazdow-o-nacisku-osi-wiekszym-niz-t",
+    "visit": "Zakaz wjazdu pojazdów o nacisku osi większym niż ... t.",
+    "percentage": "Oznacza zakaz ruchu pojazdów, których nacisk osi jest większy od nacisku odpowiadającego masie podanej na znaku; w przypadku osi wielokrotnej nacisk żadnej z osi składowych nie może odpowiadać masie większej niż 80% masy podanej na znaku. Jeżeli na znaku B-19 podano wartość 8 t lub 10 t, oznacza to dopuszczalny nacisk osi pojedynczej odpowiadający masie do 8 t lub 10 t, a osi wielokrotnej - odpowiednio większej masie, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-20.png",
+    "serial": "B-20",
+    "title": "Znak zakazu B-20-stop",
+    "visit": "<a href=\"https://znaki-drogowe.pl/znak-stop-b20\">STOP</a>",
+    "percentage": "Oznacza: 1. zakaz wjazdu na skrzyżowanie bez zatrzymania się przed drogą z pierwszeństwem, 2. obowiązek ustąpienia pierwszeństwa kierującym poruszającym się tą drogą. Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku - w takim miejscu, w którym kierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem. Znak Stop B-20 umieszczony w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został ustawiony. Przepisy stosuje się odpowiednio do znaku B-20 umieszczonego przed torowiskiem pojazdów szynowych lub w innych miejscach przecinania się kierunków ruchu. Umieszczona pod znakiem B-20 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-21.png",
+    "serial": "B-21",
+    "title": "Znak zakazu B-21-zakaz-skrecania-w-lewo",
+    "visit": "Zakaz skręcania w lewo",
+    "percentage": "Zabrania skręcania w lewo oraz zabrania zawracania. Zakaz wyrażony znakiem B-21 obowiązuje na najbliższym skrzyżowaniu. Znak B-21 znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został umieszczony. Umieszczona pod znakiem B-21 tabliczka T-22 wskazuje, że znak nie dotyczy rowerów jednośladowych skręcających na drogę dla rowerów lub wyznaczony na jezdni pas ruchu przeznaczony dla tych pojazdów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-22.png",
+    "serial": "B-22",
+    "title": "Znak zakazu B-22-zakaz-skrecania-w-prawo",
+    "visit": "Zakaz skręcania w prawo",
+    "percentage": "Zabrania skręcania w prawo. Zakaz wyrażony znakiem B-22 obowiązuje na najbliższym skrzyżowaniu. Znak B-22 znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został umieszczony. Umieszczona pod znakiem B-22 tabliczka T-22 wskazuje, że znak nie dotyczy rowerów jednośladowych skręcających na drogę dla rowerów lub wyznaczony na jezdni pas ruchu przeznaczony dla tych pojazdów."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-23.png",
+    "serial": "B-23",
+    "title": "Znak zakazu B-23-zakaz-zawracania",
+    "visit": "Zakaz zawracania",
+    "percentage": "Zabrania kierującym zawracania do najbliższego skrzyżowania włącznie."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-24.png",
+    "serial": "B-24",
+    "title": "Znak zakazu B-24-koniec-zakazu-zawracania",
+    "visit": "Koniec zakazu zawracania",
+    "percentage": "Oznacza odwołanie zakazu zawracania przed skrzyżowaniem."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-25.png",
+    "serial": "B-25",
+    "title": "Znak zakazu B-25-zakaz-wyprzedzania",
+    "visit": "Zakaz wyprzedzania",
+    "percentage": "Zabrania kierującym pojazdami silnikowymi wyprzedzania pojazdów silnikowych wielośladowych. Umieszczona pod znakiem B-25 tabliczka od T-23a do T-23j wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce. Jeżeli zakaz wyrażony przez znak B-25 nie jest uprzednio odwołany znakiem B-27 lub B-42, to obowiązuje do najbliższego skrzyżowania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-26.png",
+    "serial": "B-26",
+    "title": "Znak zakazu B-26-zakaz-wyprzedzania-przez-samochody-ciezarowe",
+    "visit": "Zakaz wyprzedzania przez samochody ciężarowe",
+    "percentage": "Zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu: 1) samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t, 2) ciągnikiem samochodowym, 3) pojazdem specjalnym lub używanym do celów specjalnych - o dopuszczalnej masie całkowitej przekraczającej 3,5 t. Jeżeli zakaz wyrażony przez znak B-25 nie jest uprzednio odwołany znakiem B-28 lub B-42, to obowiązuje do najbliższego skrzyżowania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-27.png",
+    "serial": "B-27",
+    "title": "Znak zakazu B-27-koniec-zakazu-wyprzedzania",
+    "visit": "Koniec zakazu wyprzedzania",
+    "percentage": "Oznacza koniec obowiązywania zakazu zarządzonego znakiem B-25."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-28.png",
+    "serial": "B-28",
+    "title": "Znak zakazu B-28-koniec-zakazu-wyprzedzania-przez-samochody-ciezarowe",
+    "visit": "Koniec zakazu wyprzedzania przez samochody ciężarowe",
+    "percentage": "Oznacza koniec obowiązywania zakazu zarządzonego znakiem B-26."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-29.png",
+    "serial": "B-29",
+    "title": "Znak zakazu B-29-zakaz-uzywania-sygnalow-dzwiekowych",
+    "visit": "Zakaz używania sygnałów dźwiękowych",
+    "percentage": "Zabrania używania tych sygnałów, chyba że jest to konieczne w celu ostrzeżenia o bezpośrednim zagrożeniu bezpieczeństwa ruchu. Jeżeli zakaz wyrażony przez znak B-29 nie jest uprzednio odwołany znakiem B-30 lub B-42, to obowiązuje do najbliższego skrzyżowania"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-30.png",
+    "serial": "B-30",
+    "title": "Znak zakazu B-30-koniec-zakazu-uzywania-sygnalow-dzwiekowych",
+    "visit": "Koniec zakazu używania sygnałów dźwiękowych",
+    "percentage": "Oznacza koniec obowiązywania zakazu zarządzonego znakiem B-29."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-31.png",
+    "serial": "B-31",
+    "title": "Znak zakazu B-31-pierwszenstwo-dla-nadjezdzajacych-z-przeciwka",
+    "visit": "Pierwszeństwo dla nadjeżdżających z przeciwka",
+    "percentage": "Zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się lub zmiany toru jazdy."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-32.png",
+    "serial": "B-32",
+    "title": "Znak zakazu B-32-stoj-kontrola-celna",
+    "visit": "Stój - kontrola celna",
+    "percentage": "Oznacza obowiązek zatrzymania się. Zamiast napisu \"Cło-Zoll\" na znaku mogą być umieszczone napisy \"Kontrola graniczna\", \"Rogatka uszkodzona\", \"Sygnalizacja uszkodzona\", \"Wjazd na prom\", \"Kontrola drogowa\" lub \"Pobór opłat\" - odpowiednio do przyczyny zatrzymania. Zatrzymanie powinno nastąpić w miejscu wyznaczonym w tym celu, a jeżeli nie jest ono wyznaczone - przed znakiem. Dalszy ruch może nastąpić za zgodą uprawnionej osoby lub po nadaniu sygnału zezwalającego na ruch."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-33.png",
+    "serial": "B-33",
+    "title": "Znak zakazu B-33-ograniczenie-predkosci",
+    "visit": "Ograniczenie prędkości",
+    "percentage": "Oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę. Dopuszczalna prędkość określona na znaku obowiązuje do: 1) wprowadzenia innej dopuszczalnej prędkości znakiem B-33 lub B-43, 2)<br> umieszczenia znaku D-40 oznaczającego początek strefy zamieszkania, 3)<br> umieszczenia znaków oznaczających odpowiednio początek lub koniec obszaru zabudowanego. Umieszczona pod znakiem B-33 tabliczka wskazuje, że ograniczenie prędkości dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce. Znak B-33, określający dopuszczalną prędkość większą niż 60 km/h, umieszczony na obszarze zabudowanym, dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t., z wyjątkiem: 1). pojazdu przewożącego materiały niebezpieczne 2). pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia kierującego 3). pojazdu holującego pojazd silnikowy 4). motocykla, którym przewozi się dziecko w wieku do lat 7 5). samochodu ciężarowego przewożącego osoby poza kabiną kierowcy - o dopuszczalnej masie całkowitej przekraczającej 3,5 t. Jeżeli zakaz wyrażony przez znak B-25 nie jest uprzednio odwołany znakiem B-28 lub B-42, to obowiązuje do najbliższego skrzyżowania.\n\n\t\t\t\t\t\n\t\t\t\t\t"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-34.png",
+    "serial": "B-34",
+    "title": "Znak zakazu B-34-koniec-ograniczenia-predkosci",
+    "visit": "Koniec ograniczenia prędkości",
+    "percentage": "Oznacza odwołanie ograniczenia prędkości zarządzonego znakiem B-33."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-35.png",
+    "serial": "B-35",
+    "title": "Znak zakazu B-35-zakaz-postoju",
+    "visit": "Zakaz postoju",
+    "percentage": "Oznacza zakaz postoju pojazdu. Jeżeli zakaz wyrażony znakiem B-36 nie jest uprzednio odwołany przez taki sam znak z tabliczką T-25c lub znak B-35, to obowiązuje do najbliższego skrzyżowania.\n Zakaz wyrażony tym znakiem:\n<ul>\n<li>dotyczy tej strony drogi, po której znak się znajduje, z wyjątkiem miejsc, gdzie za pomocą znaku dopuszcza się postój lub zatrzymanie,</li>\n<li>dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy,</li>\n<li>nie dotyczy pojazdów unieruchomionych ze względu na warunki lub przepisy ruchu drogowego.</li></ul>"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-36.png",
+    "serial": "B-36",
+    "title": "Znak zakazu B-36-zakaz-zatrzymywania-sie",
+    "visit": "Zakaz zatrzymywania się",
+    "percentage": "Oznacza zakaz zatrzymywania pojazdu. Jeżeli zakaz wyrażony znakiem B-36 nie jest uprzednio odwołany przez taki sam znak z tabliczką T-25c lub znak B-35, to obowiązuje do najbliższego skrzyżowania.\n Zakaz wyrażony tym znakiem:\n<ul>\n<li>dotyczy tej strony drogi, po której znak się znajduje, z wyjątkiem miejsc, gdzie za pomocą znaku dopuszcza się postój lub zatrzymanie,</li>\n<li>dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy,</li>\n<li>nie dotyczy pojazdów unieruchomionych ze względu na warunki lub przepisy ruchu drogowego.</li></ul>"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-37.png",
+    "serial": "B-37",
+    "title": "Znak zakazu B-37-zakaz-postoju-w-dni-nieparzyste",
+    "visit": "Zakaz postoju w dni nieparzyste",
+    "percentage": "Oznacza zakaz postoju pojazdów w nieparzyste dni miesiąca; zakaz nie obowiązuje od godziny 21 do 24.Jeżeli zakaz wyrażony znakiem B-37 nie jest uprzednio odwołany przez taki sam znak z tabliczką T-25c, to obowiązuje do najbliższego skrzyżowania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-38.png",
+    "serial": "B-38",
+    "title": "Znak zakazu B-38-zakaz-postoju-w-dni-parzyste",
+    "visit": "Zakaz postoju w dni parzyste",
+    "percentage": "Oznacza zakaz postoju pojazdów w parzyste dni miesiąca; zakaz nie obowiązuje od godziny 21 do 24. Jeżeli zakaz wyrażony znakiem B-38 nie jest uprzednio odwołany przez taki sam znak z tabliczką T-25c, to obowiązuje do najbliższego skrzyżowania."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-39.png",
+    "serial": "B-39",
+    "title": "Znak zakazu B-39-strefa-ograniczonego-postoju",
+    "visit": "Strefa ograniczonego postoju",
+    "percentage": "Oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów na wszystkich drogach ; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem na znaku. Znak B-39 nie dotyczy: 1). pojazdu komunikacji publicznej zatrzymującego się na wyznaczonym dla niego miejscu, 2). pojazdu zatrzymującego się w miejscu oznaczonym znakiem D-18, D-18a, D-18b lub D-44, 3). pojazdu unieruchomionego ze względu na warunki lub przepisy ruchu drogowego, 4). autobusu szkolnego."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-40.png",
+    "serial": "B-40",
+    "title": "Znak zakazu B-40-koniec-strefy-ograniczonego-postoju",
+    "visit": "Koniec strefy ograniczonego postoju",
+    "percentage": "Oznacza wyjazd ze strefy ograniczonego postoju."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-41.png",
+    "serial": "B-41",
+    "title": "Znak zakazu B-41-zakaz-ruchu-pieszych",
+    "visit": "Zakaz ruchu pieszych",
+    "percentage": "Oznacza zakaz ruchu pieszych po tej stronie drogi, po której znak jest umieszczony."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-42.png",
+    "serial": "B-42",
+    "title": "Znak zakazu B-42-koniec-zakazow",
+    "visit": "Koniec zakazów",
+    "percentage": "Oznacza odwołanie zakazów wyrażonych znakami B-23, B-25, B-26, B-29 i B-33."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-43.png",
+    "serial": "B-43",
+    "title": "Znak zakazu B-43-strefa-ograniczonej-predkosci",
+    "visit": "Strefa ograniczonej prędkości",
+    "percentage": "Oznacza wjazd do strefy, w której obowiązuje zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę. Znak B-43, określający dopuszczalną prędkość mniejszą lub równą 30 km/h, oznacza ponadto, że umieszczone w strefie urządzenia i rozwiązania wymuszające powolną jazdę (progi zwalniające) mogą nie być oznakowane znakami ostrzegawczymi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/B-44.png",
+    "serial": "B-44",
+    "title": "Znak zakazu B-44-koniec-strefy-ograniczonej-predkosci",
+    "visit": "Koniec strefy ograniczonej prędkości",
+    "percentage": "Oznacza wyjazd ze strefy ograniczonej prędkości."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-1.png",
+    "serial": "E-1",
+    "title": "Znak kierunku i miejscowości - E-1-tablica-przeddrogowskazowa",
+    "visit": "Tablica przeddrogowskazowa\t",
+    "percentage": "Uprzedza o skrzyżowaniu. Umieszczone na tym znaku wzory innych znaków informują o występowaniu tych znaków na drogach, wskazanych na znaku. 2"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-1a.png",
+    "serial": "E-1a",
+    "title": "Znak kierunku i miejscowości - Tablica przeddrogowskazowa na autostradzie",
+    "visit": "Tablica przeddrogowskazowa na autostradzie",
+    "percentage": "Uprzedza o wyjeździe z autostrady. Umieszczone na tym znaku wzory innych znaków informują o występowaniu tych znaków na drogach, wskazanych na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-1b.png",
+    "serial": "E-1b",
+    "title": "Znak kierunku i miejscowości - Tablica przeddrogowskazowa przed wjazdem na autostradę",
+    "visit": "Tablica przeddrogowskazowa przed wjazdem na autostradę",
+    "percentage": "Uprzedza o skrzyżowaniu z wjazdem na autostradę lub drogą prowadzącą do autostrady. Umieszczone na tym znaku wzory innych znaków informują o występowaniu tych znaków na drogach, wskazanych na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2a.png",
+    "serial": "E-2a",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany obok jezdni",
+    "visit": "Drogowskaz tablicowy umieszczany obok jezdni\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2b.png",
+    "serial": "E-2b",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany nad jezdnią",
+    "visit": "Drogowskaz tablicowy umieszczany nad jezdnią\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2c.png",
+    "serial": "E-2c",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany nad jezdnią na autostradzie",
+    "visit": "Drogowskaz tablicowy umieszczany nad jezdnią na autostradzie\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2d.png",
+    "serial": "E-2d",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany nad jezdnią na autostradzie",
+    "visit": "Drogowskaz tablicowy umieszczany nad jezdnią na autostradzie\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2e.png",
+    "serial": "E-2e",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany przed wjazdem na autostradę",
+    "visit": "Drogowskaz tablicowy umieszczany przed wjazdem na autostradę\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-2f.png",
+    "serial": "E-2f",
+    "title": "Znak kierunku i miejscowości - Drogowskaz tablicowy umieszczany nad jezdnią przed wjazdem na autostradę",
+    "visit": "Drogowskaz tablicowy umieszczany nad jezdnią przed wjazdem na autostradę\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-3.png",
+    "serial": "E-3",
+    "title": "Znak kierunku i miejscowości - Drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi",
+    "visit": "Drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-4.png",
+    "serial": "E-4",
+    "title": "Znak kierunku i miejscowości - Drogowskaz w kształcie strzały do miejscowości, podający odległość do niej",
+    "visit": "Drogowskaz w kształcie strzały do miejscowości, podający odległość do niej\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunki do miejscowości lub dzielnic miast."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-5.png",
+    "serial": "E-5",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do dzielnicy miasta",
+    "visit": "Drogowskaz do dzielnicy miasta\t",
+    "percentage": "Wskazuje na skrzyżowaniu lub bezpośrednio przed nim kierunek do dzielnic miast. Drogowskaz E-5 z napisem \"Centrum\" wskazuje kierunek do centrum miasta."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-6.png",
+    "serial": "E-6",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do lotniska",
+    "visit": "Drogowskaz do lotniska\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-6a.png",
+    "serial": "E-6a",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do dworca lub stacji kolejowej",
+    "visit": "Drogowskaz do dworca lub stacji kolejowej\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-6b.png",
+    "serial": "E-6b",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do dworca autobusowego",
+    "visit": "Drogowskaz do dworca autobusowego\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-6c.png",
+    "serial": "E-6c",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do przystani promowej",
+    "visit": "Drogowskaz do przystani promowej\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-7.png",
+    "serial": "E-7",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do przystani wodnej lub żeglugi",
+    "visit": "Drogowskaz do przystani wodnej lub żeglugi\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-8.png",
+    "serial": "E-8",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do plaży lub miejsca kąpielowego",
+    "visit": "Drogowskaz do plaży lub miejsca kąpielowego\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-9.png",
+    "serial": "E-9",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do muzeum",
+    "visit": "Drogowskaz do muzeum\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-10.png",
+    "serial": "E-10",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do zabytku jako dobra kultury",
+    "visit": "Drogowskaz do zabytku jako dobra kultury\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-11.png",
+    "serial": "E-11",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do zabytku przyrody",
+    "visit": "Drogowskaz do zabytku przyrody\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-12.png",
+    "serial": "E-12",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do punktu widokowego",
+    "visit": "Drogowskaz do punktu widokowego\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-12a.png",
+    "serial": "E-12a",
+    "title": "Znak kierunku i miejscowości - Drogowskaz do szlaku rowerowego",
+    "visit": "Drogowskaz do szlaku rowerowego\t",
+    "percentage": "Wskazuje kierunek do obiektu turystycznego lub wypoczynkowego wskazanego na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-13.png",
+    "serial": "E-13",
+    "title": "Znak kierunku i miejscowości - Tablica kierunkowa",
+    "visit": "Tablica kierunkowa\t",
+    "percentage": "Wskazuje kierunek i odległość do głównych miejscowości położonych przy danej drodze."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-14.png",
+    "serial": "E-14",
+    "title": "Znak kierunku i miejscowości - Tablica szlaku drogowego",
+    "visit": "Tablica szlaku drogowego\t",
+    "percentage": "Wskazuje numer drogi i odległość do głównych miejscowości położonych przy danym szlaku drogowym."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-14a.png",
+    "serial": "E-14a",
+    "title": "Znak kierunku i miejscowości - Tablica szlaku drogowego przy autostradzie",
+    "visit": "Tablica szlaku drogowego przy autostradzie\t",
+    "percentage": "Wskazuje numer drogi i odległość do głównych miejscowości położonych przy danym szlaku drogowym."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15a.png",
+    "serial": "E-15a",
+    "title": "Znak kierunku i miejscowości - Numer drogi krajowej",
+    "visit": "Numer drogi krajowej\t",
+    "percentage": "Wskazuje numer i rodzaj (kategorię) drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15b.png",
+    "serial": "E-15b",
+    "title": "Znak kierunku i miejscowości - Numer drogi wojewódzkiej",
+    "visit": "Numer drogi wojewódzkiej\t",
+    "percentage": "Znak E-15b stosuje się w celu wskazania przebiegu drogi wojewódzkiej lub wjazdu na tę drogę. Na drogach oznaczonych tym znakiem dopuszcza się ruch pojazdów o nacisku osi pojedynczej nieprzekraczającym 80 kN = 8.1577 ton"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15c.png",
+    "serial": "E-15c",
+    "title": "Znak kierunku i miejscowości - Numer autostrady",
+    "visit": "Numer autostrady\t",
+    "percentage": "Wskazuje numer i rodzaj (kategorię) drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15d.png",
+    "serial": "E-15d",
+    "title": "Znak kierunku i miejscowości - Numer drogi ekspresowej",
+    "visit": "Numer drogi ekspresowej\t",
+    "percentage": "Wskazuje numer i rodzaj (kategorię) drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15e.png",
+    "serial": "E-15e",
+    "title": "Znak kierunku i miejscowości - Numer drogi wojewódzkiej o zwiększonym do 10t dopuszczalnym nacisku osi pojazdu",
+    "visit": "Numer drogi wojewódzkiej o zwiększonym do 10t dopuszczalnym nacisku osi pojazdu\t",
+    "percentage": "Wskazuje numer i rodzaj (kategorię) drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15f.png",
+    "serial": "E-15f",
+    "title": "Znak kierunku i miejscowości - Nr drogi krajowej o dopuszczalnym nacisku osi pojazdu do 10t",
+    "visit": "Nr drogi krajowej o dopuszczalnym nacisku osi pojazdu do 10t\t",
+    "percentage": "Wykaz dróg krajowych obejmujący odcinki dróg krajowych po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedyńczej osi do 100 kN"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-15g.png",
+    "serial": "E-15g",
+    "title": "Znak kierunku i miejscowości - Nr drogi krajowej o dopuszczalnym nacisku osi pojazdu do 8t",
+    "visit": "Nr drogi krajowej o dopuszczalnym nacisku osi pojazdu do 8t\t",
+    "percentage": "Wykaz dróg krajowych obejmujący odcinki dróg krajowych po których mogą poruszać się pojazdy o dopuszczalnym nacisku pojedyńczej osi do 100 kN"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-16.png",
+    "serial": "E-16",
+    "title": "Znak kierunku i miejscowości - Numer szlaku międzynarodowego",
+    "visit": "Numer szlaku międzynarodowego\t",
+    "percentage": "Wskazuje numer i rodzaj (kategorię) drogi."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-17a.png",
+    "serial": "E-17a",
+    "title": "Znak kierunku i miejscowości - Miejscowość",
+    "visit": "Miejscowość\t",
+    "percentage": "Oznacza wjazd do miejscowości"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-18a.png",
+    "serial": "E-18a",
+    "title": "Znak kierunku i miejscowości - Koniec miejscowości",
+    "visit": "Koniec miejscowości\t",
+    "percentage": "Oznacza wyjazd z miejscowości."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-19a.png",
+    "serial": "E-19a",
+    "title": "Znak kierunku i miejscowości - Obwodnica",
+    "visit": "Obwodnica",
+    "percentage": "Wskazuje na skrzyżowaniu kierunek do obwodnicy miasta."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-20.png",
+    "serial": "E-20",
+    "title": "Znak kierunku i miejscowości - Tablica węzła drogowego na autostradzie",
+    "visit": "Tablica węzła drogowego na autostradzie\t",
+    "percentage": "Informuje o zbliżaniu się do wyjzdu z autostrady; liczby umieszczone na znaku wskazują: górna - numer wyjazdu, dolna - odległość tablicy od wyjazdu; zamiast liczby wskazującej numer wyjazdu na znaku może być podana nazwa węzła."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-21.png",
+    "serial": "E-21",
+    "title": "Znak kierunku i miejscowości - Dzielnica (osiedle)",
+    "visit": "Dzielnica (osiedle)\t",
+    "percentage": "Informuje o wjeździe do dzielnicy lub osiedla; znak z napisem \"Centrum\" informuje o wjeździe do centrum miasta."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-22a.png",
+    "serial": "E-22a",
+    "title": "Znak kierunku i miejscowości - Samochodowy szlak turystyczny",
+    "visit": "Samochodowy szlak turystyczny\t",
+    "percentage": "Wskazuje początek wyznaczonego samochodowego szlaku turystycznego; na znaku obok nazwy szlaku mogą być umieszczone symbol szlaku oraz symbol organizacji turystycznej, wytyczającej szlak."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-22b.png",
+    "serial": "E-22b",
+    "title": "Znak kierunku i miejscowości - Obiekt na samochodowym szlaku turystycznym",
+    "visit": "Obiekt na samochodowym szlaku turystycznym\t",
+    "percentage": "Wskazuje obiekt turystyczny na samochodowym szlaku turystycznym; na znaku umieszcza się symbol obiektu turystycznego lub wypoczynkowego."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/E-22c.png",
+    "serial": "E-22c",
+    "title": "Znak kierunku i miejscowości - Informacja o obiektach turystycznych",
+    "visit": "Informacja o obiektach turystycznych\t",
+    "percentage": "Informuje o występujących obiektach turystycznych na terenie wskazanym na znaku."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-1.png",
+    "serial": "T-1",
+    "title": "T-1-odleglosc-znaku-ostrzegawczego-od-miejsca-niebezpiecznego",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-1a.png",
+    "serial": "T-1a",
+    "title": "odleglosc znaku informacyjnego od poczatku konca drogi lub pasa ruchu T-1a",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-1b.png",
+    "serial": "T-1b",
+    "title": "długosc tunelu lub odcinek drogi do konca tunelu T-1b",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca długość tunelu lub odcinek drogi do końca tunelu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-2.png",
+    "serial": "T-2",
+    "title": "Tabliczka wskazująca długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-3.png",
+    "serial": "T-3",
+    "title": "Tabliczka wskazująca koniec odcinka, na którym powtarza się lub występuje niebezpieczeństwo",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca koniec odcinka, na którym powtarza się lub występuje niebezpieczeństwo"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-3a.png",
+    "serial": "T-3a",
+    "title": "Tabliczka wskazująca koniec miejsca przeznaczonego na postój T-3a",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca koniec miejsca przeznaczonego na postój"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-4.png",
+    "serial": "T-4",
+    "title": "Tabliczka wskazująca liczbę zakrętów",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca liczbę zakrętów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-5.png",
+    "serial": "T-5",
+    "title": "Tabliczka wskazująca początek drogi krętej",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca początek drogi krętej"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-6a.png",
+    "serial": "T-6a",
+    "title": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze z pierwszeństwem)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-6b.png",
+    "serial": "T-6b",
+    "title": "Tabliczka wskazująca układ dróg podporządkowanych",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze z pierwszeństwem)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-6c.png",
+    "serial": "T-6c",
+    "title": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze podporządkowanej)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-6d.png",
+    "serial": "T-6d",
+    "title": "Tabliczka wskazująca prostopadły przebieg drogi z pierwszeństwem przez skrzyżowanie",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca prostopadły przebieg drogi z pierwszeństwem przez skrzyżowanie oraz układ dróg podporządkowanych (umieszczana na drodze podporządkowanej)"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-7.png",
+    "serial": "T-7",
+    "title": "Tabliczka wskazująca układ torów i drogi na przejeździe tramwajowym",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca układ torów i drogi na przejeździe tramwajowym"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-8.png",
+    "serial": "T-8",
+    "title": "Tabliczka wskazująca miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-9.png",
+    "serial": "T-9",
+    "title": "Tabliczka wskazująca rzeczywistą wielkość spadku lub wzniesienia drogi",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca rzeczywistą wielkość spadku lub wzniesienia drogi"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-10.png",
+    "serial": "T-10",
+    "title": "Tabliczka wskazująca bocznicę kolejową lub tor o podobnym charakterze",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca bocznicę kolejową lub tor o podobnym charakterze"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-11.png",
+    "serial": "T-11",
+    "title": "Tabliczka wskazująca przeprawę promową",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca przeprawę promową"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-12.png",
+    "serial": "T-12",
+    "title": "Tabliczka wskazująca podłużny uskok nawierzchni",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca podłużny uskok nawierzchni"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-13.png",
+    "serial": "T-13",
+    "title": "Tabliczka wskazująca odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-14.png",
+    "serial": "T-14",
+    "title": "Tabliczka wskazująca miejsce częstych wypadków o charakterze wskazanym na tabliczce",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca miejsce częstych wypadków o charakterze wskazanym na tabliczce"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-15.png",
+    "serial": "T-15",
+    "title": "Tabliczka wskazująca miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-16.png",
+    "serial": "T-16",
+    "title": "Tabliczka wskazująca miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-17.png",
+    "serial": "T-17",
+    "title": "Tabliczka wskazująca granicę państwa",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca granicę państwa"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-18.png",
+    "serial": "T-18",
+    "title": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-19.png",
+    "serial": "T-19",
+    "title": "Tabliczka wskazująca na malowanie znaków poziomych",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca na malowanie znaków poziomych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-20.png",
+    "serial": "T-20",
+    "title": "Tabliczka wskazująca długość odcinka jezdni, na którym zakaz obowiązuje",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca długość odcinka jezdni, na którym zakaz obowiązuje"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-21.png",
+    "serial": "T-21",
+    "title": "Tabliczka wskazująca odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-22.png",
+    "serial": "T-22",
+    "title": "Tabliczka wskazująca, że znak nie dotyczy rowerów jednośladowych",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak nie dotyczy rowerów jednośladowych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23a.png",
+    "serial": "T-23a",
+    "title": "Tabliczka wskazująca, że znak dotyczy motocykli",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy motocykli"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23b.png",
+    "serial": "T-23b",
+    "title": "T-23b",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy samochodów ciężarowych, pojazdów specjalnych, pojazdów używanych do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t, oraz ciągników samochodowych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23c.png",
+    "serial": "T-23c",
+    "title": "Tabliczka wskazująca, że znak dotyczy ciągników rolniczych i pojazdów wolnobieżnych",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy ciągników rolniczych i pojazdów wolnobieżnych"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23d.png",
+    "serial": "T-23d",
+    "title": "Tabliczka wskazująca, że znak dotyczy pojazdów silnikowych z przyczepą",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy pojazdów silnikowych z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23e.png",
+    "serial": "T-23e",
+    "title": "Tabliczka wskazująca, że znak dotyczy pojazdów z przyczepą kempingową",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy pojazdów z przyczepą kempingową"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23f.png",
+    "serial": "T-23f",
+    "title": "Tabliczka wskazująca, że znak dotyczy autobusów",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy autobusów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23g.png",
+    "serial": "T-23g",
+    "title": "Tabliczka wskazująca, że znak dotyczy trolejbusów",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy trolejbusów"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23h.png",
+    "serial": "T-23h",
+    "title": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami niebezpiecznymi",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami niebezpiecznymi"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23i.png",
+    "serial": "T-23i",
+    "title": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-23j.png",
+    "serial": "T-23j",
+    "title": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami, które mogą skazić wodę",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że znak dotyczy pojazdów z materiałami, które mogą skazić wodę"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-24.png",
+    "serial": "T-24",
+    "title": "Tabliczka wskazująca, że pozostawiony pojazd zostanie usunięty na koszt właściciela",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że pozostawiony pojazd zostanie usunięty na koszt właściciela"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-25a.png",
+    "serial": "T-25a",
+    "title": "Tabliczka wskazująca początek zakazu postoju lub zatrzymywania",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca początek zakazu postoju lub zatrzymywania"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-25b.png",
+    "serial": "T-25b",
+    "title": "Tabliczka wskazująca kontynuację zakazu postoju lub zatrzymywania",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca kontynuację zakazu postoju lub zatrzymywania"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-25c.png",
+    "serial": "T-25c",
+    "title": "Tabliczka wskazująca odwołanie zakazu postoju lub zatrzymywania",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca odwołanie zakazu postoju lub zatrzymywania"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-26.png",
+    "serial": "T-26",
+    "title": "Tabliczka wskazująca, że zakaz postoju lub zatrzymywania dotyczy całej strony placu",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że zakaz postoju lub zatrzymywania dotyczy całej strony placu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-27.png",
+    "serial": "T-27",
+    "title": "Tabliczka wskazująca, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-28.png",
+    "serial": "T-28",
+    "title": "Tabliczka wskazująca, że za przejazd drogą pobierana jest opłata",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca, że za przejazd drogą pobierana jest opłata"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-29.png",
+    "serial": "T-29",
+    "title": "Tabliczka informująca o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej",
+    "visit": "",
+    "percentage": "Tabliczka informująca o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-30.png",
+    "serial": "T-30",
+    "title": "Tabliczka wskazująca sposób ustawienia pojazdu względem krawędzi jezdni",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca sposób ustawienia pojazdu względem krawędzi jezdni, gdzie szara część oznacza jezdnię, a biała - chodnik."
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-31.png",
+    "serial": "T-31",
+    "title": "Tabliczka wskazująca kategorię tunelu",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca kategorię tunelu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-32.png",
+    "serial": "T-32",
+    "title": "Tabliczka wskazująca minimalny odstęp od poprzedzającego pojazdu",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca minimalny odstęp od poprzedzającego pojazdu"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-33.png",
+    "serial": "T-33",
+    "title": "Tabliczka wskazująca umieszczenie w zatoce telefonu alarmowego i gaśnicy",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca umieszczenie w zatoce telefonu alarmowego i gaśnicy"
+  },
+  {
+    "src": "https://ltesty.pl/images/znaki/znaki/big/T-34.png",
+    "serial": "T-34",
+    "title": "Tabliczka wskazująca pobór opłaty elektronicznej za przejazd drogą publiczną",
+    "visit": "",
+    "percentage": "Tabliczka wskazująca pobór opłaty elektronicznej za przejazd drogą publiczną. Tabliczkę T-34 umieszcza się na drogach krajowych objętych systemem elektronicznej opłaty drogowej pod znakiem z numerem autostrady E-15c, drogi ekspresowej E-15d lub innej drogi krajowej: E-15a, E-15f albo E-15g, występującym samodzielnieTabliczkę T-34 umieszcza się na drogach krajowych objętych systemem elektronicznej opłaty drogowej pod znakiem z numerem autostrady E-15c, drogi ekspresowej E-15d lub innej drogi krajowej: E-15a, E-15f albo E-15g, występującym samodzielnie"
+  }
+]
